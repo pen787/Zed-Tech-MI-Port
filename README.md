@@ -5,6 +5,7 @@ ZedTech(GTCEu) : https://github.com/CosmicNovaStar/Zederrian-Technology-GTCEu
 
 All credit go to :
 Zerrens
+
 Everyone that Contributing in this : https://github.com/CosmicNovaStar/Zederrian-Technology-GTCEu
 
 LICENSES:
