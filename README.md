@@ -10,5 +10,8 @@ Zerrens
 
 Everyone that Contributing in this : https://github.com/CosmicNovaStar/Zederrian-Technology-GTCEu
 
+Get the last releases
+<https://github.com/pen787/Zed-Tech-MI-Port/releases>
+
 LICENSES:
 https://creativecommons.org/licenses/by-nc-sa/4.0/
